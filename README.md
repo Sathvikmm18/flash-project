@@ -16,3 +16,6 @@ A simple **Flask web app** with form submissions, API endpoint, and SQLite datab
 
 ## 📂 Picture
 
+<img width="994" height="1096" alt="image" src="https://github.com/user-attachments/assets/dbb36859-e4e2-4439-ad72-993707454d44" />
+
+
